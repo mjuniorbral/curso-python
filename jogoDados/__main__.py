@@ -1,6 +1,4 @@
-import functions # Criado pelo programador desse programa
-import numpy as np # Criado pela comunidade, módulo externo
-import random # Nativo do Python
+from functions import *
 
 # Programa de um jogo de azar
 # Não é o jogo do tigrinho
@@ -64,9 +62,6 @@ def registroPontos():
 def sairTela():
     pass
     
-def dado():
-    """Retorna um número sorteado entre 1 e 6."""
-    return random.randint(1,6)
 
 # Estrutura padrão em programas principais
 if __name__=="__main__":

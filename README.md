@@ -26,12 +26,19 @@ Tipos de Dados (https://docs.python.org/pt-br/3.10/reference/datamodel.html)
 - Funções e Métodos Embutidos (builtin_function_or_method)
 - Instância de Classes - Nativas do Python (Exception,  e Definidas pelo programador
 - Tipo "tipo" (type)
+
 Operações matemáticas e lógicas (básicas)
+
 Variável
+
 Funções Embutidas (https://docs.python.org/pt-br/3/library/functions.html)
+
 Algoritmos
+
 Aplicação em cálculo numérico
+
 Trabalhando com arquivos txt, csv, xlsx
+
 Entendendo os erros
 
 Sites interessantes

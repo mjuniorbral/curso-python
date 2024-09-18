@@ -1,7 +1,7 @@
 # curso-python
 Um repositório para hospedagem des projetos com objetivo de aprendizado.
 
-### Professor do Curso
+## Professor do Curso
 
 <img src="professor_marcelo.jpg" alt="perfil_professor" style="width:400px;"/>
 
@@ -17,17 +17,17 @@ Um repositório para hospedagem des projetos com objetivo de aprendizado.
     - Módulo pyToScriptCAD para automação em AutoCad
     - Módulo GeoViewer para visualização de dados de Geotecnia
 
-### Informações sobre as turmas
-#### Turma 01: Programação em Python - Básico
-###### Preço por hora de aula:
+## Informações sobre as turmas
+### Turma 01: Programação em Python - Básico
+#### Preço por hora de aula:
 R$ 10,00 por hora de aula
-###### Link para o formulário de intenção de inscrição:
+#### Link para o formulário de intenção de inscrição:
 https://forms.gle/SAuC3gditP9sfr5CA
-###### Dia/horário:
+#### Dia/horário:
 Terça e Quinta, das 20h30 às 21h30;
-###### Local:
+#### Local:
 Aulas remotas e síncronas pelo servidor do discord "Curso de Programação em Python" (https://discord.gg/ZksyMQyBT4);
-###### Ementa:
+#### Ementa:
 - **Módulo 1:** *Motivação e Introdução*
     - Por que eu deveria saber programar?
     - Por que começar com Python?
@@ -72,14 +72,14 @@ Aulas remotas e síncronas pelo servidor do discord "Curso de Programação em P
         - Geolocalização: Python GIS
     - Git e GitHUB (repositórios e versionamento)
 
-#### Turma 02: Programação em Python - Intermediário
-###### Preço por hora de aula:
+### Turma 02: Programação em Python - Intermediário
+#### Preço por hora de aula:
 R$ 15,00 por hora de aula
-###### Dia/horário:
+#### Dia/horário:
 Ainda não definido por falta de alunos (envie e-mail para mjuniorbral@gmail.com para solicitar abertura de turma)
-###### Local:
+#### Local:
 Aulas remotas e síncronas pelo servidor do discord "Curso de Programação em Python" (https://discord.gg/ZksyMQyBT4);
-###### Ementa: *(em desenvolvimento)*
+#### Ementa: *(em desenvolvimento)*
 - **Módulo 1:** Interface gráfica do usuário (GUI) com Tkinter
 - **Módulo 2:** POO (Programação Orientada a Objetos)
 - **Módulo 3:** Análise de Dados
@@ -100,15 +100,15 @@ Aulas remotas e síncronas pelo servidor do discord "Curso de Programação em P
 - **Módulo 4:** Introdução ao Desenvolvimento de Jogos com pygame
 - **Módulo 5:** Git e GitHUB (repositórios e versionamento)
 
-#### Mentoria: Programação em Python - Básico ao Avançado
-###### Preço por hora de mentoria:
+### Mentoria: Programação em Python - Básico ao Avançado
+#### Preço por hora de mentoria:
 A partir de R$ 20,00 por hora de mentoria
-###### Dia/horário:
+#### Dia/horário:
 O horário e dia é flexível conforme necessidade do aluno e disponibilidade do professor. Se estiver interessado nesse serviço de mentoria, envie e-mail para mjuniorbral@gmail.com pedido mais informações.
-###### Local:
+#### Local:
 Aulas remotas e síncronas pelo servidor do discord "Curso de Programação em Python" (https://discord.gg/ZksyMQyBT4);
 
-#### Sites interessantes
+## Sites interessantes
 - **Documentação oficial do Python**, onde pode-se encontrar a explicação de toda a lógica por trás da linguagem Python (*em português e em inglês*): https://docs.python.org/
 - **Python Tutor**, site para debugar o código de forma mais visual (*em inglês bem simples de compreender*): https://pythontutor.com/
 - **Colab - Google**, site de notebook python para implementação de ciência de dados totalmente online (*em português e em inglês*): https://colab.research.google.com/

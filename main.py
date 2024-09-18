@@ -1,10 +1,44 @@
-import module # Criado pelo programador desse programa
+import functions # Criado pelo programador desse programa
 import numpy as np # Criado pela comunidade, módulo externo
 import random # Nativo do Python
 
-def dado():
-    """Retorna um número sorteado entre 1 e 6."""
-    return random.randint(1,6)
+# Programa de um jogo de azar
+# Não é o jogo do tigrinho
+
+# 0. Apresentado uma introdução no terminal CHECK
+# 1. Registrar o nome do jogador CHECK
+# 2. Apresentar as regras do jogo CHECK
+# 3. Jogar
+# 3.1. Implementar função dado CHECK
+# 4. Apresentar resultados
+# 5. Registrar o resultado em um registro fixo (.txt)
+# 6. Abre um menu para perguntar se quer tentar de novo
+
+# Elementos conceituais a serem trabalhados nesse projeto
+# - Identação
+# - Variáveis
+# - Operações matemáticas
+# - Criação de módulos
+# - Importação de bibliotecas
+# - Funções, Rotinas e Métodos
+# - Interface com usuário
+# - Encapsulamento
+# - Divisão de responsabilidades
+# - Documentação
+# - Erros
+# - Arquitetura de Software
+# - Manipulação de Dados
+# - Operações lógicas
+
+# - Estruturas condicionais
+# - Estruturas de repetição
+# - Manipulação de arquivos
+# - etc.
+
+# Conceitos avançados
+# - Programação Orientada a Objetos (POO)
+
+
 
 def intro():
     """Essa função introduz o jogador ao jogo.""" # DocString: descrição da função
@@ -30,6 +64,9 @@ def registroPontos():
 def sairTela():
     pass
     
+def dado():
+    """Retorna um número sorteado entre 1 e 6."""
+    return random.randint(1,6)
 
 # Estrutura padrão em programas principais
 if __name__=="__main__":

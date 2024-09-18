@@ -1,5 +1,5 @@
 # curso-python
-Um repositório para hospedagem des projetos com objetivo de aprendizado.
+Um repositório para os arquivos usados no curso de programação em python.
 
 ## Professor do Curso
 

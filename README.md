@@ -74,7 +74,7 @@ Aulas remotas e síncronas pelo servidor do discord "Curso de Programação em P
 
 ### Turma 02: Programação em Python - Intermediário
 #### Preço por hora de aula:
-R$ 15,00 por hora de aula
+R$ 20,00 por hora de aula
 #### Dia/horário:
 Ainda não definido por falta de alunos (envie e-mail para mjuniorbral@gmail.com para solicitar abertura de turma)
 #### Local:
@@ -102,7 +102,7 @@ Aulas remotas e síncronas pelo servidor do discord "Curso de Programação em P
 
 ### Mentoria: Programação em Python - Básico ao Avançado
 #### Preço por hora de mentoria:
-A partir de R$ 20,00 por hora de mentoria
+A partir de R$ 50,00 por hora de mentoria
 #### Dia/horário:
 O horário e dia é flexível conforme necessidade do aluno e disponibilidade do professor. Se estiver interessado nesse serviço de mentoria, envie e-mail para mjuniorbral@gmail.com pedido mais informações.
 #### Local:

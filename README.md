@@ -99,6 +99,7 @@ Aulas remotas e síncronas pelo servidor do discord "Curso de Programação em P
         - ...
 - **Módulo 4:** Introdução ao Desenvolvimento de Jogos com pygame
 - **Módulo 5:** Git e GitHUB (repositórios e versionamento)
+- **Módulo 6:** Usando IAs para ajuda no aprendizado e desenvolvimento em programação (ChatGPT, Gemini, Copilot).
 
 ### Mentoria: Programação em Python - Básico ao Avançado
 #### Preço por hora de mentoria:

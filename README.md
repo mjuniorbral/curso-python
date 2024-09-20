@@ -10,6 +10,7 @@ Um repositório para os arquivos usados no curso de programação em python.
 - *E-mail* de contato: mjuniorbral@gmail.com
 - Usuário do Discord: _@mjuniorbral_
 - Formado em Engenharia Civil na Universidade Federal do Rio de Janeiro (UFRJ)
+- Foi monitor das matérias de Computação I e Computação II em Python na UFRJ por aproximadamente 2 anos
 - Desenvolveu os seguintes projetos em Python:
     - Simulação Propagação de Ondas Unidimensionais e Bidimensionais
     - Algoritmo Genético para Otimização de seções de estrutura de concreto
